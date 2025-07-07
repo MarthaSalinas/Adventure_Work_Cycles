@@ -107,4 +107,3 @@ Este dashboard no solo refleja el estado actual de la empresa, sino que se convi
 📧 [marthaflorsg@gmail.com](mailto:marthaflorsg@gmail.com)  
 🔗 [LinkedIn – Martha Flor Salinas G.](https://www.linkedin.com/in/mflor-salinas-g)
 
-> Proyecto desarrollado como parte del Módulo 3 del programa **Data Analytics 2.0** de Henry Bootcamp.
